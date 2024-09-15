@@ -4,8 +4,8 @@
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['2348140209693'] // fill in your number
-global.ownMain = '2348140209693' // fill in your number
+global.owner = ['2348120055226'] // fill in your number
+global.ownMain = '2348120055226' // fill in your number
 global.OwnerName = '𝐋𝐨𝐫𝐝 Chibueze' //no need to change
 global.sessionName = 'ses'
 global.connect = true // Change to False if you want to use Qr Code
